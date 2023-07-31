@@ -6,3 +6,4 @@
 
 - [Use cases](use_cases/README.md)
     - [Simple pendulum](use_cases/simple_pendulum.md)
+    - [Transistor DC](use_cases/transistor.md)
